@@ -1,0 +1,6 @@
+*.jpg
+*.png
+mytoken.py
+__pycache__/
+env/
+input/songs.txt
