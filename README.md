@@ -1,6 +1,17 @@
 # Album Cover Art
 
-Reads in an image of an album cover and and pulls the lyrics from an API to create an image to create "art", which consists of the colored lyrics to mirror the original. I will add an example soon.
+Reads in an image of an album cover and and pulls the lyrics from an API to create an image to create "art", which consists of the colored lyrics to mirror the original.
+
+<table>
+<th>
+    <td>
+        <img src="https://m.media-amazon.com/images/I/815UbQWSslL._SX355_.jpg" alt="original" width="300">
+    </td>
+    <td>
+        <img src="https://preview.redd.it/89fn3qlbgie81.png?width=960&crop=smart&auto=webp&s=c1aea46ad810398ffd24945a77f7bfe8587549e8" alt="result" width="300">
+    </td>
+</th>
+</table>
 
 
 ## Usage
