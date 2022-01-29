@@ -3,14 +3,28 @@
 Reads in an image of an album cover and and pulls the lyrics from an API to create an image to create "art", which consists of the colored lyrics to mirror the original.
 
 <table>
-<th>
+<tr>
+    <th>
+        Original
+    </th>
+    <th>
+        Without Background
+    </th>
+    <th>
+        With Background
+    </th>
+</tr>
+<tr>
     <td>
         <img src="https://m.media-amazon.com/images/I/815UbQWSslL._SX355_.jpg" alt="original" width="300">
     </td>
     <td>
         <img src="https://preview.redd.it/89fn3qlbgie81.png?width=960&crop=smart&auto=webp&s=c1aea46ad810398ffd24945a77f7bfe8587549e8" alt="result" width="300">
     </td>
-</th>
+    <td>
+        <img src="https://preview.redd.it/m3nji7nhvme81.png?width=640&crop=smart&auto=webp&s=2f58725a66874da3577b0ba41ee6a710a75aa5da" alt="result" width="300">
+    </td>
+</tr>
 </table>
 
 
@@ -23,6 +37,12 @@ Reads in an image of an album cover and and pulls the lyrics from an API to crea
 * Install dependencies with: `python3 -m pip install -r requirements.txt`
 * Run: `python3 main.py`
 * Your ouput is in: `./output/`
+
+
+## Dependencies
+
+* https://github.com/python-pillow/Pillow
+* https://github.com/johnwmillr/LyricsGenius
 
 
 ## Acknoledgements
