@@ -19,7 +19,7 @@ Reads in an image of an album cover and and pulls the lyrics from an API to crea
         <img src="https://m.media-amazon.com/images/I/815UbQWSslL._SX355_.jpg" alt="original" width="300">
     </td>
     <td>
-        <img src="https://i.redd.it/89fn3qlbgie81.png" alt="result" width="300">
+        <img src="https://preview.redd.it/89fn3qlbgie81.png?width=960&crop=smart&auto=webp&s=c1aea46ad810398ffd24945a77f7bfe8587549e8" alt="result" width="300">
     </td>
     <td>
         <img src="https://preview.redd.it/m3nji7nhvme81.png?width=2100&format=png&auto=webp&s=6bedf3bd145c03f7a0ee560bd065b73a99b4a10c" alt="result" width="300">
